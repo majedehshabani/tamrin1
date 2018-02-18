@@ -37,7 +37,7 @@
     </style>
 </head>
 
-<body style="background-color:#bebebe; ">
+<body style="background-color:#F7F7F7; ">
 
 <header id="header">
     <div class="container">
@@ -107,8 +107,8 @@
                 </div>
 
                 <label style="padding-left: 15px; font-family: 'B Nazanin';">جنسيت:</label>
-                <input style="margin-left: 5px;" type="radio" name="gensiat" id="gens"  /><label style="padding-left: 40px;">مرد</label>
-                <input style="margin-left: 5px;" type="radio" name="gensiat" id="gens" checked /><label>زن</label>
+                <input style="margin-left: 5px;" type="radio" name="gens" id="gens"  /><label style="padding-left: 40px;">مرد</label>
+                <input style="margin-left: 5px;" type="radio" name="gens" id="gens" checked /><label>زن</label>
                 <br/>
                 <br/>
 
