@@ -19,6 +19,7 @@ class CreateCommentsTable extends Migration
             $table->string('email');
             $table->integer('tel');
             $table->string('gens');
+            $table->string('a');
             $table->string('nz1');
             $table->string('nz2');
             $table->string('subject');
@@ -26,6 +27,9 @@ class CreateCommentsTable extends Migration
             $table->timestamps();
         });
     }
+
+
+
 
     /**
      * Reverse the migrations.

@@ -108,7 +108,13 @@
 
                 <label style="padding-left: 15px; font-family: 'B Nazanin';">جنسيت:</label>
                 <input style="margin-left: 5px;" type="radio" name="gens" id="gens"  /><label style="padding-left: 40px;">مرد</label>
-                <input style="margin-left: 5px;" type="radio" name="gens" id="gens" checked /><label>زن</label>
+                <input style="margin-left: 5px;" type="radio" name="gens" id= "gens" checked /><label>زن</label>
+                <br/>
+                <br/>
+
+                <label style="padding-left: 15px; font-family: 'B Nazanin';">ماه:</label>
+                <input style="margin-left: 5px;" type="radio" name="a" id="a"  /><label style="padding-left: 40px;">فروردین</label>
+                <input style="margin-left: 5px;" type="radio" name="a" id= "a" checked /><label>اردیبهشت</label>
                 <br/>
                 <br/>
 

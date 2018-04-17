@@ -35,13 +35,18 @@ class HomeController extends Controller
         $commet->email=$request->email;
         $commet->tel=$request->tel;
         $commet->gens=$request->gens;
+        $commet->a=$request->a;
         $commet->nz1=$request->nz1;
         $commet->nz2=$request->nz2;
         $commet->subject=$request->subject;
         $commet->message=$request->message;
         $commet->save();
+
         return redirect(route('index'));
 
     }
 
 }
+
+
+

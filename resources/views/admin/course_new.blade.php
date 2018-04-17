@@ -26,12 +26,28 @@
                 <div class="card-content">
                     <form name="news" class="" enctype='#'>
                         <div class="col-md-10 col-md-offset-1 col-xs-12">
-                            <div class="row">
+                            <dparteiv class="row">
                                 <div class="colxs-12 col-md-2 pull-right">
                                     <label>عنوان :</label>
                                 </div>
                                 <div class="col-xs-12 col-md-10 pull-right">
                                     <input name="name" class="form-control">
+                                </div>
+                            </dparteiv>
+                            <div class="row">
+                                <div class="colxs-12 col-md-2 pull-right">
+                                    <label>موضوع :</label>
+                                </div>
+                                <div class="col-xs-12 col-md-10 pull-right">
+                                    <input name="mozo" class="form-control">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="colxs-12 col-md-2 pull-right">
+                                    <label>مدرس :</label>
+                                </div>
+                                <div class="col-xs-12 col-md-10 pull-right">
+                                    <input name="techer" class="form-control">
                                 </div>
                             </div>
                             <div class="row">

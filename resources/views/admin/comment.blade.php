@@ -50,6 +50,7 @@
                                                 <th class="col-xs-1 text-right">ایمیل</th>
                                                 <th class="col-xs-1 text-right">تماس</th>
                                                 <th class="col-xs-1 text-right">جنسيت</th>
+                                                <th class="col-xs-1 text-right">ماه</th>
                                                 <th class="col-xs-2 text-right">وضعيت انتخاب واحد</th>
                                                 <th class="col-xs-2 text-right">سطح علمي مطالب</th>
                                                 <th class="col-xs-2 text-right">پاسخ </th>
@@ -65,6 +66,7 @@
                                                     <td class="">{{$comment->email}}</td>
                                                     <td class="">{{$comment->tel}}</td>
                                                     <td class="">{{$comment->gens}}</td>
+                                                    <td class="">{{$comment->a}}</td>
                                                     <td class="">{{$comment->nz1}}</td>
                                                     <td class="">{{$comment->nz2}}</td>
                                                     <td class="">{{$comment->subject}}</td>
